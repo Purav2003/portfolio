@@ -49,8 +49,8 @@ const Header: React.FC = () => {
       }`}
     >
       <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <a href="#home" className="text-2xl font-bold text-primary">
-          Payal
+        <a href="#home" className="text-2xl font-bold text-black dark:text-gray-200">
+          Payal | Data Analyst
         </a>
         
         <div className="hidden md:flex items-center space-x-8">
